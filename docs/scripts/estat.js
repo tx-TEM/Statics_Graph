@@ -1,7 +1,7 @@
 class EstatManager {
     apiVersion = "3.0"
     baseUrl = `http://api.e-stat.go.jp/rest/${this.apiVersion}/app/json`
-    appId = ""
+    appId = "72f197f27cdf99cab4456b06dc814b92b1a3bf57"
 
     constructUrl(statsDataId) {
         const url = new URL(`${this.baseUrl}/getStatsData`);
