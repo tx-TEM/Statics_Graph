@@ -1,31 +1,31 @@
 {
-  "name": "statics_graph",
-  "version": "1.0.0",
-  "description": "https://tx-tem.github.io/Statics_Graph/index.html",
-  "main": "index.js",
-  "directories": {
-    "doc": "docs"
-  },
-  "dependencies": {
-    "chart.js": "^2.9.3",
-    "ts-loader": "^8.0.1",
-    "typescript": "^3.9.7",
-    "webpack-cli": "^3.3.12",
-    "webpack-dev-server": "^3.11.0",
-    "webpack": "^4.43.0"
-  },
-  "devDependencies": {},
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/tx-TEM/Statics_Graph.git"
-  },
-  "author": "tx-TEM",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/tx-TEM/Statics_Graph/issues"
-  },
-  "homepage": "https://github.com/tx-TEM/Statics_Graph#readme"
+    "name": "statics_graph",
+    "version": "1.0.0",
+    "description": "https://tx-tem.github.io/Statics_Graph/index.html",
+    "main": "index.js",
+    "directories": {
+        "doc": "docs"
+    },
+    "dependencies": {
+        "chart.js": "^2.9.3",
+        "ts-loader": "^8.0.1",
+        "typescript": "^3.9.7",
+        "webpack-cli": "^3.3.12",
+        "webpack-dev-server": "^3.11.0",
+        "webpack": "^4.43.0"
+    },
+    "devDependencies": {},
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/tx-TEM/Statics_Graph.git"
+    },
+    "author": "tx-TEM",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/tx-TEM/Statics_Graph/issues"
+    },
+    "homepage": "https://github.com/tx-TEM/Statics_Graph#readme"
 }
