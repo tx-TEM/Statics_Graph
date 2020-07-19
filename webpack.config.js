@@ -11,7 +11,8 @@ module.exports = {
         extensions: ['.ts', '.js']
     },
     devServer: {
-        contentBase: path.join(__dirname, 'docs')
+        contentBase: path.join(__dirname, 'docs'),
+        publicPath: '/scripts'
     },
     module: {
         rules: [{
