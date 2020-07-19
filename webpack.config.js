@@ -5,7 +5,7 @@ module.exports = {
     },
     output: {
         path: path.join(__dirname, 'docs/scripts'),
-        filename: 'bundle.js'
+        filename: '[name].js'
     },
     resolve: {
         extensions: ['.ts', '.js']
