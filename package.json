@@ -28,5 +28,6 @@
     "bugs": {
         "url": "https://github.com/tx-TEM/Statics_Graph/issues"
     },
-    "homepage": "https://github.com/tx-TEM/Statics_Graph#readme"
+    "homepage": "https://github.com/tx-TEM/Statics_Graph#readme",
+    "private": true
 }
