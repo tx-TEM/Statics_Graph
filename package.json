@@ -7,7 +7,7 @@
         "doc": "docs"
     },
     "dependencies": {
-        "chart.js": "^2.9.3",
+        "chart.js": "^2.9.4",
         "ts-loader": "^8.0.1",
         "typescript": "^3.9.7",
         "webpack-cli": "^3.3.12",
